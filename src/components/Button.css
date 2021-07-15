@@ -1,0 +1,19 @@
+.add-button {
+  background-color: chartreuse;
+  height: 40px;
+  padding: 0 10px;
+  width: 30%;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #444;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  transition: all 0.5s ease;
+}
+.add-button:hover {
+  background-color: #444;
+  border: solid 3px chartreuse;
+  color: chartreuse;
+  transition: all 0.5s ease;
+}
